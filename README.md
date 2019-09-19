@@ -9,5 +9,4 @@ Populate a website with details of recipes!
 * In the `index.js` file, create a program that populates the data from the JSON string onto the website page. The page should display every recipe as a card which includes  the recipe image, title, author and ingredients. 
 * Make sure that each recipe is populated in the **correct** section, that is, cake recipes should be under the section "cakes" etc. 
 
-**Notes**: 
-* See images for references. 
+![Populated baked goods](images/bakery.png)
